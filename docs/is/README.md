@@ -11,10 +11,14 @@
 
 ## Gagnlegir tenglar
 
-* [Ritreglur Árnastofnunar](http://www.arnastofnun.is/page/ritreglur)
-* [Orðabók.is](http://www.ordabok.is/)
-* [Tölvuorðabók Skýrslutæknifélags Íslands](http://tos.sky.is/)
-* [Beygingarlýsing íslensks nútímamáls](http://bin.arnastofnun.is/forsida/)
+|||
+|---|---|
+|[Ritreglur Árnastofnunar](http://www.arnastofnun.is/page/ritreglur) | Íslenskar ritreglur frá Árnastofnun Háskóla Íslands|
+|[Orðabók.is](http://www.ordabok.is/)|Íslensk orðabók á netinu (aðgengileg gegn áskriftargjaldi) |
+|[Tölvuorðabók Skýrslutæknifélags Íslands](http://tos.sky.is/)|Orðabók með áherslu á tölvuorð | 
+|[Beygingarlýsing íslensks nútímamáls](http://bin.arnastofnun.is/forsida/)|Orðabók með allar beygingar á beygjanlegum orðum| 
+|[Transvision frá Mozilla](https://transvision.mozfr.org/)|Þýðingartól sem nýtist vel til að samstilla þýðingu innan eða milli verkefna hjá Mozilla| 
+|[Málið](https://málið.is/)|Leitarvefur sem sýnir niðurstöður úr nokkrum gagnasöfnum| 
 
 ## Innihald
 
